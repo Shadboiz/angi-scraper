@@ -1,0 +1,11 @@
+services:
+  scraper:
+    container_name: angi-scraper
+    image: angi-scraper-image
+    build: .
+    stdin_open: true # <--- keep STDIN open
+    tty: true # <--- allocate a TTY
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: python scraper.py

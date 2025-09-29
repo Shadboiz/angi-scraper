@@ -1,0 +1,27 @@
+You will always be given JSON in this format:
+
+```json
+{
+  "state_code": "xx",
+  "state_name": "SomeState",
+  "cities": [
+    "city-one",
+    "city-two",
+    "city-three",
+    ...
+  ]
+}
+```
+
+**Task:**
+
+1. Label each city by number, starting at 1 in the order it appears in the array.
+2. When I ask for the "richest cities" in that state, return **only the TOP 5–10 most affluent cities** in that state, based on widely recognized wealth (household income, real estate value, prestige).
+3. Always choose only those cities that are among the wealthiest and most business-viable — where companies have the potential to generate **$100K/month or more per business location**.
+4. Output format must be strictly:
+
+   ```
+   123, 456, 789
+   ```
+
+   (Numbers only, no text, no explanation).

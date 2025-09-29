@@ -1,0 +1,3550 @@
+[
+  {
+    "niche_code": "20-yard-dumpsters",
+    "niche_name": "20 Yard Dumpster Rental Services"
+  },
+  {
+    "niche_code": "emergency-animal-control",
+    "niche_name": "24 Hour Animal Control Services"
+  },
+  {
+    "niche_code": "24-hour-furnace-repair",
+    "niche_name": "24 Hour Furnace Repair"
+  },
+  {
+    "niche_code": "emergency-pest-control",
+    "niche_name": "24 Hour Pest Control Services"
+  },
+  {
+    "niche_code": "install-above-ground-pools",
+    "niche_name": "Above Ground Pool Contractors"
+  },
+  {
+    "niche_code": "above-ground-pool-repair",
+    "niche_name": "Above Ground Pool Repair"
+  },
+  {
+    "niche_code": "affordable-plumbers",
+    "niche_name": "Affordable Plumbing"
+  },
+  {
+    "niche_code": "affordable-roofing",
+    "niche_name": "Affordable Roofing"
+  },
+  {
+    "niche_code": "air-conditioner-installers",
+    "niche_name": "Air Conditioning Installation"
+  },
+  {
+    "niche_code": "air-conditioning-repair",
+    "niche_name": "Air Conditioning Repair"
+  },
+  {
+    "niche_code": "air-duct-cleaning",
+    "niche_name": "Air Duct Cleaning"
+  },
+  {
+    "niche_code": "alarm-systems",
+    "niche_name": "Alarm Companies"
+  },
+  {
+    "niche_code": "install-aluminum-fence",
+    "niche_name": "Aluminum Fence Companies"
+  },
+  {
+    "niche_code": "animal-removal",
+    "niche_name": "Animal Control"
+  },
+  {
+    "niche_code": "pet-fencing",
+    "niche_name": "Animal Fencing"
+  },
+  {
+    "niche_code": "ant-exterminators",
+    "niche_name": "Ant Exterminators"
+  },
+  {
+    "niche_code": "antique-lamp-repair",
+    "niche_name": "Antique Lamp Repair"
+  },
+  {
+    "niche_code": "antique-restoration",
+    "niche_name": "Antique Restoration"
+  },
+  {
+    "niche_code": "apartment-cleaning-services",
+    "niche_name": "Apartment Cleaners"
+  },
+  {
+    "niche_code": "install-appliances",
+    "niche_name": "Appliance Installers"
+  },
+  {
+    "niche_code": "appliance-removal",
+    "niche_name": "Appliance Removal"
+  },
+  {
+    "niche_code": "appliance-repair",
+    "niche_name": "Appliance Repair"
+  },
+  {
+    "niche_code": "appliance-repair-companies",
+    "niche_name": "Appliance Repair Companies"
+  },
+  {
+    "niche_code": "appliance-sales",
+    "niche_name": "Appliance Sales"
+  },
+  {
+    "niche_code": "appliances",
+    "niche_name": "Appliances"
+  },
+  {
+    "niche_code": "appraisals",
+    "niche_name": "Appraisals - Antiques/Jewelry/Items"
+  },
+  {
+    "niche_code": "aquarium-services",
+    "niche_name": "Aquarium Services"
+  },
+  {
+    "niche_code": "arborists",
+    "niche_name": "Arborists"
+  },
+  {
+    "niche_code": "architects",
+    "niche_name": "Architects"
+  },
+  {
+    "niche_code": "artificial-grass-installers",
+    "niche_name": "Artificial Grass Companies"
+  },
+  {
+    "niche_code": "asbestos-removal",
+    "niche_name": "Asbestos Removal"
+  },
+  {
+    "niche_code": "asbestos-abatement",
+    "niche_name": "Asbestos Removal Contractors"
+  },
+  {
+    "niche_code": "asbestos-testing",
+    "niche_name": "Asbestos Testers"
+  },
+  {
+    "niche_code": "asphalt-companies",
+    "niche_name": "Asphalt Contractors"
+  },
+  {
+    "niche_code": "asphalt-driveway-companies",
+    "niche_name": "Asphalt Driveway Contractors"
+  },
+  {
+    "niche_code": "asphalt-patching",
+    "niche_name": "Asphalt Patching"
+  },
+  {
+    "niche_code": "repair-asphalt",
+    "niche_name": "Asphalt Repair Companies"
+  },
+  {
+    "niche_code": "asphalt-resurfacing",
+    "niche_name": "Asphalt Resurfacing Companies"
+  },
+  {
+    "niche_code": "asphalt-sealcoating",
+    "niche_name": "Asphalt Sealing"
+  },
+  {
+    "niche_code": "attic-fan-installation",
+    "niche_name": "Attic Fan Installation"
+  },
+  {
+    "niche_code": "repair-attic-fans",
+    "niche_name": "Attic Fan Repair"
+  },
+  {
+    "niche_code": "attic-insulation",
+    "niche_name": "Attic Insulation Companies"
+  },
+  {
+    "niche_code": "attic-ladder-installation",
+    "niche_name": "Attic Ladder Installation"
+  },
+  {
+    "niche_code": "attic-ventilation-contractors",
+    "niche_name": "Attic Ventilation Contractors"
+  },
+  {
+    "niche_code": "awning-contractors",
+    "niche_name": "Awning Companies"
+  },
+  {
+    "niche_code": "repair-awnings",
+    "niche_name": "Awning Repair"
+  },
+  {
+    "niche_code": "awnings",
+    "niche_name": "Awnings"
+  },
+  {
+    "niche_code": "backsplash-installation",
+    "niche_name": "Backsplash Installation"
+  },
+  {
+    "niche_code": "backyard-designers",
+    "niche_name": "Backyard Design Companies"
+  },
+  {
+    "niche_code": "backyard-landscaping",
+    "niche_name": "Backyard Landscapers"
+  },
+  {
+    "niche_code": "balcony-contractors",
+    "niche_name": "Balcony Contractors"
+  },
+  {
+    "niche_code": "barn-building",
+    "niche_name": "Barn Builders"
+  },
+  {
+    "niche_code": "barn-repair",
+    "niche_name": "Barn Repair"
+  },
+  {
+    "niche_code": "barndominium-builders",
+    "niche_name": "Barndominium Builders"
+  },
+  {
+    "niche_code": "install-baseboards",
+    "niche_name": "Baseboard Installation"
+  },
+  {
+    "niche_code": "basement-contractors",
+    "niche_name": "Basement Companies"
+  },
+  {
+    "niche_code": "basement-finishing",
+    "niche_name": "Basement Finishing"
+  },
+  {
+    "niche_code": "basement-leak-repair",
+    "niche_name": "Basement Leak Repair"
+  },
+  {
+    "niche_code": "basement-waterproofing",
+    "niche_name": "Basement Waterproofing"
+  },
+  {
+    "niche_code": "basketball-goals",
+    "niche_name": "Basketball Goals"
+  },
+  {
+    "niche_code": "bat-control",
+    "niche_name": "Bat Control"
+  },
+  {
+    "niche_code": "bathroom-design",
+    "niche_name": "Bathroom Design Companies"
+  },
+  {
+    "niche_code": "bathroom-fan-installation",
+    "niche_name": "Bathroom Fan Installation"
+  },
+  {
+    "niche_code": "bathroom-remodelers",
+    "niche_name": "Bathroom Remodeling"
+  },
+  {
+    "niche_code": "bathroom-repair",
+    "niche_name": "Bathroom Repair Services"
+  },
+  {
+    "niche_code": "install-bathroom-tile",
+    "niche_name": "Bathroom Tile Contractors"
+  },
+  {
+    "niche_code": "repair-bathroom-tile",
+    "niche_name": "Bathroom Tile Repair"
+  },
+  {
+    "niche_code": "bathroom-vanity-installation",
+    "niche_name": "Bathroom Vanity Installation"
+  },
+  {
+    "niche_code": "install-bathtub",
+    "niche_name": "Bathtub Installation"
+  },
+  {
+    "niche_code": "bathtub-refinishing",
+    "niche_name": "Bathtub Refinishing"
+  },
+  {
+    "niche_code": "bathtub-repair",
+    "niche_name": "Bathtub Repair Companies"
+  },
+  {
+    "niche_code": "bathtub-replacement",
+    "niche_name": "Bathtub Replacement"
+  },
+  {
+    "niche_code": "bed-bug-removal",
+    "niche_name": "Bed Bug Control"
+  },
+  {
+    "niche_code": "wasp-bee-removal",
+    "niche_name": "Bee Removal"
+  },
+  {
+    "niche_code": "biohazard-remediation",
+    "niche_name": "Biohazard Remediation"
+  },
+  {
+    "niche_code": "bird-control",
+    "niche_name": "Bird Control"
+  },
+  {
+    "niche_code": "black-mold-inspection",
+    "niche_name": "Black Mold Inspection"
+  },
+  {
+    "niche_code": "blacktop-companies",
+    "niche_name": "Blacktop Companies"
+  },
+  {
+    "niche_code": "blind-cleaning",
+    "niche_name": "Blind Cleaning"
+  },
+  {
+    "niche_code": "blind-installers",
+    "niche_name": "Blind Installation"
+  },
+  {
+    "niche_code": "blind-repair",
+    "niche_name": "Blind Repair"
+  },
+  {
+    "niche_code": "block-wall",
+    "niche_name": "Block Wall Companies"
+  },
+  {
+    "niche_code": "blown-in-insulation",
+    "niche_name": "Blown-In Insulation"
+  },
+  {
+    "niche_code": "repair-boat-docks",
+    "niche_name": "Boat Dock Repair"
+  },
+  {
+    "niche_code": "install-boiler",
+    "niche_name": "Boiler Installation"
+  },
+  {
+    "niche_code": "boiler-repair",
+    "niche_name": "Boiler Repair"
+  },
+  {
+    "niche_code": "bosch-appliance-repair",
+    "niche_name": "Bosch Appliance Repair"
+  },
+  {
+    "niche_code": "brick-pavers",
+    "niche_name": "Brick Paver Companies"
+  },
+  {
+    "niche_code": "brush-chipping",
+    "niche_name": "Brush Chipping Services"
+  },
+  {
+    "niche_code": "buffing-and-polishing",
+    "niche_name": "Buffing and Polishing"
+  },
+  {
+    "niche_code": "bug-companies",
+    "niche_name": "Bug Control"
+  },
+  {
+    "niche_code": "home-builders",
+    "niche_name": "Builders"
+  },
+  {
+    "niche_code": "building-contractors",
+    "niche_name": "Building Contractors"
+  },
+  {
+    "niche_code": "commercial-roof-repair",
+    "niche_name": "Business Roof Repair"
+  },
+  {
+    "niche_code": "cabinet-contractors",
+    "niche_name": "Cabinet Installers"
+  },
+  {
+    "niche_code": "cabinet-makers",
+    "niche_name": "Cabinet Makers"
+  },
+  {
+    "niche_code": "cabinet-painting",
+    "niche_name": "Cabinet Painting"
+  },
+  {
+    "niche_code": "kitchen-cabinet-refacing",
+    "niche_name": "Cabinet Refacing"
+  },
+  {
+    "niche_code": "cabinet-refinishing",
+    "niche_name": "Cabinet Refacing and Refinishing"
+  },
+  {
+    "niche_code": "refinish-cabinets",
+    "niche_name": "Cabinet Refinishers"
+  },
+  {
+    "niche_code": "cabinet-repair",
+    "niche_name": "Cabinet Repair"
+  },
+  {
+    "niche_code": "cad-drafting",
+    "niche_name": "CAD Drafting Services"
+  },
+  {
+    "niche_code": "carpentry",
+    "niche_name": "Carpentry"
+  },
+  {
+    "niche_code": "carpet-cleaning",
+    "niche_name": "Carpet Cleaning"
+  },
+  {
+    "niche_code": "carpet-dyeing",
+    "niche_name": "Carpet Dyeing"
+  },
+  {
+    "niche_code": "carpet-installation",
+    "niche_name": "Carpet Installation"
+  },
+  {
+    "niche_code": "carpet",
+    "niche_name": "Carpet Installation"
+  },
+  {
+    "niche_code": "carpet-layers",
+    "niche_name": "Carpet Layers"
+  },
+  {
+    "niche_code": "carpet-removal",
+    "niche_name": "Carpet Removal"
+  },
+  {
+    "niche_code": "carpet-repair",
+    "niche_name": "Carpet Repair Companies"
+  },
+  {
+    "niche_code": "carpet-shampoo-services",
+    "niche_name": "Carpet Shampoo Services"
+  },
+  {
+    "niche_code": "carpet-steam-cleaners",
+    "niche_name": "Carpet Steam Cleaners"
+  },
+  {
+    "niche_code": "carpet-stretching",
+    "niche_name": "Carpet Stretching Services"
+  },
+  {
+    "niche_code": "carport-builders",
+    "niche_name": "Carport Installation"
+  },
+  {
+    "niche_code": "repair-carport",
+    "niche_name": "Carport Repair"
+  },
+  {
+    "niche_code": "caulking-services",
+    "niche_name": "Caulking Services"
+  },
+  {
+    "niche_code": "ceiling-companies",
+    "niche_name": "Ceiling Companies"
+  },
+  {
+    "niche_code": "install-ceiling-fans",
+    "niche_name": "Ceiling Fan Companies"
+  },
+  {
+    "niche_code": "repair-ceiling-fans",
+    "niche_name": "Ceiling Fan Repair"
+  },
+  {
+    "niche_code": "ceiling-fans",
+    "niche_name": "Ceiling Fans"
+  },
+  {
+    "niche_code": "ceiling-painters",
+    "niche_name": "Ceiling Painters"
+  },
+  {
+    "niche_code": "ceiling-repair",
+    "niche_name": "Ceiling Repair Companies"
+  },
+  {
+    "niche_code": "ceiling-tile-installation",
+    "niche_name": "Ceiling Tile Installation"
+  },
+  {
+    "niche_code": "cement-companies",
+    "niche_name": "Cement Companies"
+  },
+  {
+    "niche_code": "central-vacuum-cleaners",
+    "niche_name": "Central Vacuum Cleaning"
+  },
+  {
+    "niche_code": "install-central-vacuum",
+    "niche_name": "Central Vacuum Installation"
+  },
+  {
+    "niche_code": "central-vacuum-systems",
+    "niche_name": "Central Vacuum Repair"
+  },
+  {
+    "niche_code": "ceramic-tile",
+    "niche_name": "Ceramic Tile"
+  },
+  {
+    "niche_code": "install-ceramic-tile",
+    "niche_name": "Ceramic Tile Companies"
+  },
+  {
+    "niche_code": "ceramic-tile-repair",
+    "niche_name": "Ceramic Tile Repair"
+  },
+  {
+    "niche_code": "install-chain-link-fence",
+    "niche_name": "Chain Link Fence Companies"
+  },
+  {
+    "niche_code": "repair-chain-link-fence",
+    "niche_name": "Chain Link Fence Repair"
+  },
+  {
+    "niche_code": "install-stair-lift",
+    "niche_name": "Chair Lift Companies"
+  },
+  {
+    "niche_code": "chandelier-installation",
+    "niche_name": "Chandelier Installation"
+  },
+  {
+    "niche_code": "childproofing",
+    "niche_name": "Childproofing"
+  },
+  {
+    "niche_code": "install-chimney-caps",
+    "niche_name": "Chimney Cap Replacement"
+  },
+  {
+    "niche_code": "chimney-caps",
+    "niche_name": "Chimney Caps"
+  },
+  {
+    "niche_code": "chimney-cleaning",
+    "niche_name": "Chimney Cleaning"
+  },
+  {
+    "niche_code": "chimney-inspection",
+    "niche_name": "Chimney Inspection"
+  },
+  {
+    "niche_code": "chimney-liner-installation",
+    "niche_name": "Chimney Liner Installation"
+  },
+  {
+    "niche_code": "chimney-repair",
+    "niche_name": "Chimney Repair"
+  },
+  {
+    "niche_code": "chimney-sweep",
+    "niche_name": "Chimney Sweep"
+  },
+  {
+    "niche_code": "christmas-lights-install",
+    "niche_name": "Christmas Lights Installers"
+  },
+  {
+    "niche_code": "cleaning",
+    "niche_name": "Cleaning"
+  },
+  {
+    "niche_code": "cleaning-crews",
+    "niche_name": "Cleaning Crews"
+  },
+  {
+    "niche_code": "closet-design",
+    "niche_name": "Closet Design Companies"
+  },
+  {
+    "niche_code": "closet-makers",
+    "niche_name": "Closet Makers"
+  },
+  {
+    "niche_code": "closets",
+    "niche_name": "Closets"
+  },
+  {
+    "niche_code": "cockroach-control",
+    "niche_name": "Cockroach Control"
+  },
+  {
+    "niche_code": "commercial-ac-repair",
+    "niche_name": "Commercial A/C Repair"
+  },
+  {
+    "niche_code": "commercial-architects",
+    "niche_name": "Commercial Architects"
+  },
+  {
+    "niche_code": "commercial-carpet-cleaning",
+    "niche_name": "Commercial Carpet Cleaners"
+  },
+  {
+    "niche_code": "install-commercial-carpet",
+    "niche_name": "Commercial Carpeting"
+  },
+  {
+    "niche_code": "commercial-cleaning-services",
+    "niche_name": "Commercial Cleaning Services"
+  },
+  {
+    "niche_code": "commercial-door-repair",
+    "niche_name": "Commercial Door Repair"
+  },
+  {
+    "niche_code": "commercial-electrical",
+    "niche_name": "Commercial Electricians"
+  },
+  {
+    "niche_code": "commercial-floor-cleaning",
+    "niche_name": "Commercial Floor Cleaning"
+  },
+  {
+    "niche_code": "commercial-insulation-companies",
+    "niche_name": "Commercial Insulation"
+  },
+  {
+    "niche_code": "commercial-landscapers",
+    "niche_name": "Commercial Landscaping"
+  },
+  {
+    "niche_code": "commercial-locksmiths",
+    "niche_name": "Commercial Locksmiths"
+  },
+  {
+    "niche_code": "commercial-painting",
+    "niche_name": "Commercial Painting"
+  },
+  {
+    "niche_code": "commercial-paving",
+    "niche_name": "Commercial Pavers"
+  },
+  {
+    "niche_code": "commercial-plumber",
+    "niche_name": "Commercial Plumber"
+  },
+  {
+    "niche_code": "commercial-roofing",
+    "niche_name": "Commercial Roofing"
+  },
+  {
+    "niche_code": "commercial-snow-removal",
+    "niche_name": "Commercial Snow Removal"
+  },
+  {
+    "niche_code": "commercial-window-companies",
+    "niche_name": "Commercial Window Companies"
+  },
+  {
+    "niche_code": "commercial-window-tinting",
+    "niche_name": "Commercial Window Tinting"
+  },
+  {
+    "niche_code": "computer-repair",
+    "niche_name": "Computer Repair Services"
+  },
+  {
+    "niche_code": "concrete-companies",
+    "niche_name": "Concrete Contractors"
+  },
+  {
+    "niche_code": "concrete-cutting",
+    "niche_name": "Concrete Cutting"
+  },
+  {
+    "niche_code": "concrete-delivery",
+    "niche_name": "Concrete Delivery Companies"
+  },
+  {
+    "niche_code": "concrete-demolition",
+    "niche_name": "Concrete Demolition"
+  },
+  {
+    "niche_code": "concrete-driveways",
+    "niche_name": "Concrete Driveway Companies"
+  },
+  {
+    "niche_code": "concrete-finishing",
+    "niche_name": "Concrete Finishing"
+  },
+  {
+    "niche_code": "concrete-floor-staining",
+    "niche_name": "Concrete Floor Staining"
+  },
+  {
+    "niche_code": "concrete-flooring",
+    "niche_name": "Concrete Flooring"
+  },
+  {
+    "niche_code": "concrete-foundation-companies",
+    "niche_name": "Concrete Foundation Companies"
+  },
+  {
+    "niche_code": "concrete-leveling",
+    "niche_name": "Concrete Leveling"
+  },
+  {
+    "niche_code": "concrete-masons",
+    "niche_name": "Concrete Masons"
+  },
+  {
+    "niche_code": "concrete-mudjacking",
+    "niche_name": "Concrete Mudjacking"
+  },
+  {
+    "niche_code": "concrete-patio-companies",
+    "niche_name": "Concrete Patio Contractors"
+  },
+  {
+    "niche_code": "concrete-disposal",
+    "niche_name": "Concrete Removal"
+  },
+  {
+    "niche_code": "concrete-repair",
+    "niche_name": "Concrete Repair"
+  },
+  {
+    "niche_code": "concrete-resurfacing",
+    "niche_name": "Concrete Resurfacing"
+  },
+  {
+    "niche_code": "concrete-steps-repair",
+    "niche_name": "Concrete Steps Repair"
+  },
+  {
+    "niche_code": "concrete-walls",
+    "niche_name": "Concrete Walls"
+  },
+  {
+    "niche_code": "construction-managers",
+    "niche_name": "Construction Management"
+  },
+  {
+    "niche_code": "copper-gutters",
+    "niche_name": "Copper Gutters"
+  },
+  {
+    "niche_code": "corian-countertops",
+    "niche_name": "Corian Countertops"
+  },
+  {
+    "niche_code": "couch-cleaning-services",
+    "niche_name": "Couch Cleaning"
+  },
+  {
+    "niche_code": "couch-removal",
+    "niche_name": "Couch Removal"
+  },
+  {
+    "niche_code": "couch-repair",
+    "niche_name": "Couch Repair Services"
+  },
+  {
+    "niche_code": "countertop-contractors",
+    "niche_name": "Countertop Installation"
+  },
+  {
+    "niche_code": "countertops",
+    "niche_name": "Countertop Installation"
+  },
+  {
+    "niche_code": "repair-countertops",
+    "niche_name": "Countertop Repair"
+  },
+  {
+    "niche_code": "countertop-resurfacing",
+    "niche_name": "Countertop Resurfacing Companies"
+  },
+  {
+    "niche_code": "crawl-space-encapsulation",
+    "niche_name": "Crawl Space Encapsulation"
+  },
+  {
+    "niche_code": "install-crown-molding",
+    "niche_name": "Crown Molding Companies"
+  },
+  {
+    "niche_code": "drapery-curtain-install",
+    "niche_name": "Curtain & Drapery Installation"
+  },
+  {
+    "niche_code": "curtain-drapery-repair",
+    "niche_name": "Curtain & Drapery Repair"
+  },
+  {
+    "niche_code": "custom-home-builders",
+    "niche_name": "Custom Builders"
+  },
+  {
+    "niche_code": "furniture-builders",
+    "niche_name": "Custom Furniture Builders"
+  },
+  {
+    "niche_code": "custom-woodworking",
+    "niche_name": "Custom Woodworking"
+  },
+  {
+    "niche_code": "deck-cleaning",
+    "niche_name": "Deck Cleaning Services"
+  },
+  {
+    "niche_code": "deck-builders",
+    "niche_name": "Deck Companies"
+  },
+  {
+    "niche_code": "deck-maintenance",
+    "niche_name": "Deck Maintenance"
+  },
+  {
+    "niche_code": "deck-painters",
+    "niche_name": "Deck Painters"
+  },
+  {
+    "niche_code": "deck-refinishing",
+    "niche_name": "Deck Refinishing Services"
+  },
+  {
+    "niche_code": "deck-repair",
+    "niche_name": "Deck Repair Companies"
+  },
+  {
+    "niche_code": "deck-staining",
+    "niche_name": "Deck Staining Companies"
+  },
+  {
+    "niche_code": "decks-and-porches",
+    "niche_name": "Decks and Porches"
+  },
+  {
+    "niche_code": "concrete-stamped-decorative",
+    "niche_name": "Decorative Concrete"
+  },
+  {
+    "niche_code": "humidifier-repair",
+    "niche_name": "Dehumidifier & Humidifier Repair"
+  },
+  {
+    "niche_code": "demolition-services",
+    "niche_name": "Demolition Services"
+  },
+  {
+    "niche_code": "dirt-hauling",
+    "niche_name": "Dirt Hauling"
+  },
+  {
+    "niche_code": "dishwasher-installation",
+    "niche_name": "Dishwasher Installation"
+  },
+  {
+    "niche_code": "dishwasher-repair",
+    "niche_name": "Dishwasher Repair"
+  },
+  {
+    "niche_code": "dock-builders",
+    "niche_name": "Dock Builders"
+  },
+  {
+    "niche_code": "dock-building-repair",
+    "niche_name": "Dock Building & Repair"
+  },
+  {
+    "niche_code": "install-dog-fencing",
+    "niche_name": "Dog Fence Companies"
+  },
+  {
+    "niche_code": "door-installation",
+    "niche_name": "Door Installation"
+  },
+  {
+    "niche_code": "lock-repair-services",
+    "niche_name": "Door Lock Repair Services"
+  },
+  {
+    "niche_code": "door-refinishing",
+    "niche_name": "Door Refinishing"
+  },
+  {
+    "niche_code": "door-repair",
+    "niche_name": "Door Repair"
+  },
+  {
+    "niche_code": "doorbell-installation",
+    "niche_name": "Doorbell Installation"
+  },
+  {
+    "niche_code": "doors",
+    "niche_name": "Doors"
+  },
+  {
+    "niche_code": "drain-cleaning",
+    "niche_name": "Drain Cleaning"
+  },
+  {
+    "niche_code": "drainage-companies",
+    "niche_name": "Drain Contractors"
+  },
+  {
+    "niche_code": "drain-pipe-installation",
+    "niche_name": "Drain Pipe Installation"
+  },
+  {
+    "niche_code": "alterations",
+    "niche_name": "Drapery Alterations"
+  },
+  {
+    "niche_code": "drapery-cleaning",
+    "niche_name": "Drapery Cleaning"
+  },
+  {
+    "niche_code": "driveway-gates",
+    "niche_name": "Driveway Gates"
+  },
+  {
+    "niche_code": "driveways",
+    "niche_name": "Driveway Pavers"
+  },
+  {
+    "niche_code": "driveway-paving",
+    "niche_name": "Driveway Paving Companies"
+  },
+  {
+    "niche_code": "driveway-repair",
+    "niche_name": "Driveway Repair"
+  },
+  {
+    "niche_code": "driveway-sealcoating",
+    "niche_name": "Driveway Sealing"
+  },
+  {
+    "niche_code": "dryer-repair",
+    "niche_name": "Dryer Repair"
+  },
+  {
+    "niche_code": "dryer-vent-companies",
+    "niche_name": "Dryer Vent Cleaning"
+  },
+  {
+    "niche_code": "dryer-vent-cleaning",
+    "niche_name": "Dryer Vent Cleaning"
+  },
+  {
+    "niche_code": "dryvit-contractors",
+    "niche_name": "Dryvit Contractors"
+  },
+  {
+    "niche_code": "drywall",
+    "niche_name": "Drywall"
+  },
+  {
+    "niche_code": "drywall-insulation",
+    "niche_name": "Drywall & Insulation Contractors"
+  },
+  {
+    "niche_code": "drywall-installers",
+    "niche_name": "Drywall Installers"
+  },
+  {
+    "niche_code": "drywall-repair",
+    "niche_name": "Drywall Repair"
+  },
+  {
+    "niche_code": "duct-installers",
+    "niche_name": "Duct Installers"
+  },
+  {
+    "niche_code": "dumpster-rental",
+    "niche_name": "Dumpster Rental"
+  },
+  {
+    "niche_code": "earth-moving-contractors",
+    "niche_name": "Earth Moving Companies"
+  },
+  {
+    "niche_code": "earthquake-retrofit",
+    "niche_name": "Earthquake Retrofitting"
+  },
+  {
+    "niche_code": "install-egress-windows",
+    "niche_name": "Egress Window Installers"
+  },
+  {
+    "niche_code": "egress",
+    "niche_name": "Egress Windows"
+  },
+  {
+    "niche_code": "eifs-installers",
+    "niche_name": "EIFS Contractors"
+  },
+  {
+    "niche_code": "electric-inspections",
+    "niche_name": "Electric Inspectors"
+  },
+  {
+    "niche_code": "electric-repair",
+    "niche_name": "Electric Repair"
+  },
+  {
+    "niche_code": "electric-water-heater-repair",
+    "niche_name": "Electric Water Heater Repair Companies"
+  },
+  {
+    "niche_code": "electrical",
+    "niche_name": "Electrical"
+  },
+  {
+    "niche_code": "electrical-construction",
+    "niche_name": "Electrical Construction"
+  },
+  {
+    "niche_code": "electrical-handymen",
+    "niche_name": "Electrical Handymen"
+  },
+  {
+    "niche_code": "electrical-panel-upgrade",
+    "niche_name": "Electrical Panel Upgrade"
+  },
+  {
+    "niche_code": "electrolux-repair",
+    "niche_name": "Electrolux Appliance Repair"
+  },
+  {
+    "niche_code": "electrolux-vacuum-repair",
+    "niche_name": "Electrolux Vacuum Repair"
+  },
+  {
+    "niche_code": "electrolux-washer-repair",
+    "niche_name": "Electrolux Washer Repair"
+  },
+  {
+    "niche_code": "elevator-companies",
+    "niche_name": "Elevator Companies"
+  },
+  {
+    "niche_code": "emergency-appliance-repair",
+    "niche_name": "Emergency Appliance Repair Companies"
+  },
+  {
+    "niche_code": "emergency-carpet-cleaners",
+    "niche_name": "Emergency Carpet Cleaners"
+  },
+  {
+    "niche_code": "emergency-cleaning",
+    "niche_name": "Emergency Cleaning Services"
+  },
+  {
+    "niche_code": "emergency-electrician",
+    "niche_name": "Emergency Electricians"
+  },
+  {
+    "niche_code": "emergency-garage-door-repair",
+    "niche_name": "Emergency Garage Door Repair"
+  },
+  {
+    "niche_code": "emergency-handymen",
+    "niche_name": "Emergency Handymen"
+  },
+  {
+    "niche_code": "emergency-locksmiths",
+    "niche_name": "Emergency Locksmiths"
+  },
+  {
+    "niche_code": "emergency-plumbers",
+    "niche_name": "Emergency Plumbers"
+  },
+  {
+    "niche_code": "emergency-roofing",
+    "niche_name": "Emergency Roofing Companies"
+  },
+  {
+    "niche_code": "energy-audit",
+    "niche_name": "Energy Efficiency Auditing"
+  },
+  {
+    "niche_code": "front-door-repair",
+    "niche_name": "Entry Door Repair"
+  },
+  {
+    "niche_code": "epoxy-flooring",
+    "niche_name": "Epoxy Flooring"
+  },
+  {
+    "niche_code": "ev-charger-installer",
+    "niche_name": "EV Charger Installer"
+  },
+  {
+    "niche_code": "excavating",
+    "niche_name": "Excavating"
+  },
+  {
+    "niche_code": "excavation-companies",
+    "niche_name": "Excavation Contractors"
+  },
+  {
+    "niche_code": "exhaust-fan-installation",
+    "niche_name": "Exhaust Fan Installation"
+  },
+  {
+    "niche_code": "exterior-painting",
+    "niche_name": "Exterior Painting"
+  },
+  {
+    "niche_code": "farmhouse-builders",
+    "niche_name": "Farmhouse Builders"
+  },
+  {
+    "niche_code": "faucet-installation",
+    "niche_name": "Faucet Installation"
+  },
+  {
+    "niche_code": "repair-faucets",
+    "niche_name": "Faucet Repair"
+  },
+  {
+    "niche_code": "fence-gate-repair",
+    "niche_name": "Fence & Gate Repair"
+  },
+  {
+    "niche_code": "fence-companies",
+    "niche_name": "Fence Installers"
+  },
+  {
+    "niche_code": "fence-painting",
+    "niche_name": "Fence Painting"
+  },
+  {
+    "niche_code": "fence-repair",
+    "niche_name": "Fence Repair Companies"
+  },
+  {
+    "niche_code": "stain-fence",
+    "niche_name": "Fence Staining"
+  },
+  {
+    "niche_code": "fencing",
+    "niche_name": "Fencing"
+  },
+  {
+    "niche_code": "feng-shui-consultants",
+    "niche_name": "Feng Shui Experts"
+  },
+  {
+    "niche_code": "fiber-cement-siding",
+    "niche_name": "Fiber Cement Siding"
+  },
+  {
+    "niche_code": "fiberglass-pool",
+    "niche_name": "Fiberglass Pools"
+  },
+  {
+    "niche_code": "restore-fire-damage",
+    "niche_name": "Fire Damage Restoration"
+  },
+  {
+    "niche_code": "fire-pit-installation",
+    "niche_name": "Fire Pit Installation"
+  },
+  {
+    "niche_code": "fire-sprinkler-companies",
+    "niche_name": "Fire Sprinkler Contractors"
+  },
+  {
+    "niche_code": "install-fireplace",
+    "niche_name": "Fireplace Builders"
+  },
+  {
+    "niche_code": "fireplace-cleaners",
+    "niche_name": "Fireplace Cleaners"
+  },
+  {
+    "niche_code": "fireplace-inspection",
+    "niche_name": "Fireplace Inspection"
+  },
+  {
+    "niche_code": "fireplace-remodelers",
+    "niche_name": "Fireplace Remodeling"
+  },
+  {
+    "niche_code": "fireplace-repair",
+    "niche_name": "Fireplace Repair"
+  },
+  {
+    "niche_code": "fireplaces",
+    "niche_name": "Fireplaces"
+  },
+  {
+    "niche_code": "repair-flat-roofs",
+    "niche_name": "Flat Roof Repair"
+  },
+  {
+    "niche_code": "flat-roofing",
+    "niche_name": "Flat Roofing Companies"
+  },
+  {
+    "niche_code": "flea-control",
+    "niche_name": "Flea Control"
+  },
+  {
+    "niche_code": "floor-cleaning",
+    "niche_name": "Floor Cleaners"
+  },
+  {
+    "niche_code": "flooring-companies",
+    "niche_name": "Floor Installers"
+  },
+  {
+    "niche_code": "floor-painters",
+    "niche_name": "Floor Painters"
+  },
+  {
+    "niche_code": "floor-polishers",
+    "niche_name": "Floor Polishers"
+  },
+  {
+    "niche_code": "floor-sanding",
+    "niche_name": "Floor Sanding"
+  },
+  {
+    "niche_code": "floor-waxing",
+    "niche_name": "Floor Waxing"
+  },
+  {
+    "niche_code": "flooring",
+    "niche_name": "Flooring"
+  },
+  {
+    "niche_code": "floor-repair-companies",
+    "niche_name": "Flooring Repair"
+  },
+  {
+    "niche_code": "foundation-drain-installation",
+    "niche_name": "Foundation Drain Installation"
+  },
+  {
+    "niche_code": "foundation-contractors",
+    "niche_name": "Foundation Installation"
+  },
+  {
+    "niche_code": "foundation-repair",
+    "niche_name": "Foundation Repair"
+  },
+  {
+    "niche_code": "fountain-repair",
+    "niche_name": "Fountain Repair"
+  },
+  {
+    "niche_code": "fountains",
+    "niche_name": "Fountains"
+  },
+  {
+    "niche_code": "repair-freezers",
+    "niche_name": "Freezer Repair Services"
+  },
+  {
+    "niche_code": "french-drains",
+    "niche_name": "French Drains"
+  },
+  {
+    "niche_code": "fumigation",
+    "niche_name": "Fumigation Companies"
+  },
+  {
+    "niche_code": "furnace-cleaners",
+    "niche_name": "Furnace Cleaning"
+  },
+  {
+    "niche_code": "install-furnace",
+    "niche_name": "Furnace Installation"
+  },
+  {
+    "niche_code": "furnace-maintenance",
+    "niche_name": "Furnace Maintenance"
+  },
+  {
+    "niche_code": "furnace-repair",
+    "niche_name": "Furnace Repair"
+  },
+  {
+    "niche_code": "furnace-tune-up",
+    "niche_name": "Furnace Tune-Up"
+  },
+  {
+    "niche_code": "furniture-assembly",
+    "niche_name": "Furniture Assembly"
+  },
+  {
+    "niche_code": "furniture-cleaners",
+    "niche_name": "Furniture Cleaning"
+  },
+  {
+    "niche_code": "furniture-moving",
+    "niche_name": "Furniture Moving"
+  },
+  {
+    "niche_code": "furniture-painting",
+    "niche_name": "Furniture Painting Services"
+  },
+  {
+    "niche_code": "furniture-refinishing",
+    "niche_name": "Furniture Refinishers"
+  },
+  {
+    "niche_code": "remove-furniture",
+    "niche_name": "Furniture Removal Services"
+  },
+  {
+    "niche_code": "furniture-repair",
+    "niche_name": "Furniture Repair"
+  },
+  {
+    "niche_code": "furniture-restoration",
+    "niche_name": "Furniture Restoration"
+  },
+  {
+    "niche_code": "furniture-reupholstery",
+    "niche_name": "Furniture Upholstery"
+  },
+  {
+    "niche_code": "garage-builders",
+    "niche_name": "Garage Builders"
+  },
+  {
+    "niche_code": "garage-cleaning-services",
+    "niche_name": "Garage Cleaning Services"
+  },
+  {
+    "niche_code": "garage-door-companies",
+    "niche_name": "Garage Door Installers"
+  },
+  {
+    "niche_code": "garage-opener-repair",
+    "niche_name": "Garage Door Opener Repair"
+  },
+  {
+    "niche_code": "install-garage-door-opener",
+    "niche_name": "Garage Door Opener Services"
+  },
+  {
+    "niche_code": "garage-door-repair",
+    "niche_name": "Garage Door Repair"
+  },
+  {
+    "niche_code": "repair-garage-door-spring",
+    "niche_name": "Garage Door Spring Repair"
+  },
+  {
+    "niche_code": "garage-doors",
+    "niche_name": "Garage Doors"
+  },
+  {
+    "niche_code": "garage-floor-coatings",
+    "niche_name": "Garage Floor Epoxy & Coating"
+  },
+  {
+    "niche_code": "garage-organization",
+    "niche_name": "Garage Organization"
+  },
+  {
+    "niche_code": "garage-remodeling",
+    "niche_name": "Garage Remodeling"
+  },
+  {
+    "niche_code": "garbage-collection",
+    "niche_name": "Garbage Collection"
+  },
+  {
+    "niche_code": "install-garbage-disposal",
+    "niche_name": "Garbage Disposal Companies"
+  },
+  {
+    "niche_code": "garbage-disposal-repair",
+    "niche_name": "Garbage Disposal Repair"
+  },
+  {
+    "niche_code": "garbage-removal",
+    "niche_name": "Garbage Removal"
+  },
+  {
+    "niche_code": "garden-designers",
+    "niche_name": "Garden Design"
+  },
+  {
+    "niche_code": "gardeners",
+    "niche_name": "Gardening Services"
+  },
+  {
+    "niche_code": "repair-gas-appliances",
+    "niche_name": "Gas Appliance Repair"
+  },
+  {
+    "niche_code": "gas-fireplace-service",
+    "niche_name": "Gas Fireplace Installation"
+  },
+  {
+    "niche_code": "gas-fireplace-repair",
+    "niche_name": "Gas Fireplace Repair"
+  },
+  {
+    "niche_code": "gas-grill-installation",
+    "niche_name": "Gas Grill Installers"
+  },
+  {
+    "niche_code": "gas-grill-repair",
+    "niche_name": "Gas Grill Repair"
+  },
+  {
+    "niche_code": "gas-leak-repair",
+    "niche_name": "Gas Leak Repair"
+  },
+  {
+    "niche_code": "gas-logs",
+    "niche_name": "Gas Logs"
+  },
+  {
+    "niche_code": "natural-gas-plumbers",
+    "niche_name": "Gas Plumbers"
+  },
+  {
+    "niche_code": "gas-oven-repair",
+    "niche_name": "Gas Stove Repair"
+  },
+  {
+    "niche_code": "repair-gas-water-heater",
+    "niche_name": "Gas Water Heater Repair"
+  },
+  {
+    "niche_code": "gate-install",
+    "niche_name": "Gate Installers"
+  },
+  {
+    "niche_code": "gate-repair",
+    "niche_name": "Gate Repair Companies"
+  },
+  {
+    "niche_code": "gazebos",
+    "niche_name": "Gazebo Builders"
+  },
+  {
+    "niche_code": "ge-appliance-repair",
+    "niche_name": "GE Appliance Repair"
+  },
+  {
+    "niche_code": "ge-dishwasher-repair",
+    "niche_name": "GE Dishwasher Repair"
+  },
+  {
+    "niche_code": "ge-dryer-repair",
+    "niche_name": "GE Dryer Repair"
+  },
+  {
+    "niche_code": "ge-microwave-repair",
+    "niche_name": "GE Microwave Repair"
+  },
+  {
+    "niche_code": "ge-fridge-repair",
+    "niche_name": "GE Refrigerator Repair"
+  },
+  {
+    "niche_code": "ge-washer-repair",
+    "niche_name": "GE Washing Machine Repair"
+  },
+  {
+    "niche_code": "general-contractors",
+    "niche_name": "General Contractors"
+  },
+  {
+    "niche_code": "generator-installers",
+    "niche_name": "Generator"
+  },
+  {
+    "niche_code": "generator-installation",
+    "niche_name": "Generator Installation"
+  },
+  {
+    "niche_code": "geothermal",
+    "niche_name": "Geothermal Installation"
+  },
+  {
+    "niche_code": "repair-geothermal",
+    "niche_name": "Geothermal Repair"
+  },
+  {
+    "niche_code": "glass-and-mirrors",
+    "niche_name": "Glass and Mirrors"
+  },
+  {
+    "niche_code": "glass-block",
+    "niche_name": "Glass Block"
+  },
+  {
+    "niche_code": "glass-block-windows",
+    "niche_name": "Glass Block Companies"
+  },
+  {
+    "niche_code": "glass-contractors",
+    "niche_name": "Glass Contractors"
+  },
+  {
+    "niche_code": "glass-door-installation",
+    "niche_name": "Glass Door Installation"
+  },
+  {
+    "niche_code": "sliding-door-repair",
+    "niche_name": "Glass Door Repair"
+  },
+  {
+    "niche_code": "glaziers",
+    "niche_name": "Glaziers"
+  },
+  {
+    "niche_code": "grab-bar-installation",
+    "niche_name": "Grab Bar Installation"
+  },
+  {
+    "niche_code": "grading-hauling",
+    "niche_name": "Grading & Hauling Services"
+  },
+  {
+    "niche_code": "landscape-grading",
+    "niche_name": "Grading Companies"
+  },
+  {
+    "niche_code": "granite-countertop-companies",
+    "niche_name": "Granite Countertop Companies"
+  },
+  {
+    "niche_code": "repair-granite-countertops",
+    "niche_name": "Granite Countertop Repair"
+  },
+  {
+    "niche_code": "granite-restoration",
+    "niche_name": "Granite Restoration"
+  },
+  {
+    "niche_code": "gravel-delivery",
+    "niche_name": "Gravel Delivery"
+  },
+  {
+    "niche_code": "gravel-driveway-companies",
+    "niche_name": "Gravel Driveway Installation"
+  },
+  {
+    "niche_code": "gravel-driveway-repair",
+    "niche_name": "Gravel Driveway Repair"
+  },
+  {
+    "niche_code": "greenhouses",
+    "niche_name": "Greenhouse Companies"
+  },
+  {
+    "niche_code": "plant-nurseries",
+    "niche_name": "Greenhouses and Nurseries"
+  },
+  {
+    "niche_code": "grill-assembly",
+    "niche_name": "Grill Assembly"
+  },
+  {
+    "niche_code": "groundhog-removal",
+    "niche_name": "Groundhog Removal"
+  },
+  {
+    "niche_code": "repair-grout",
+    "niche_name": "Grout Repair Services"
+  },
+  {
+    "niche_code": "gutter-cleaning",
+    "niche_name": "Gutter Cleaning"
+  },
+  {
+    "niche_code": "gutter-guards-covers",
+    "niche_name": "Gutter Guard Installation"
+  },
+  {
+    "niche_code": "gutter-installation",
+    "niche_name": "Gutter Installers"
+  },
+  {
+    "niche_code": "gutter-repair",
+    "niche_name": "Gutter Repair"
+  },
+  {
+    "niche_code": "gutter-repair-replacement",
+    "niche_name": "Gutters"
+  },
+  {
+    "niche_code": "hail-damage-repair",
+    "niche_name": "Hail Damage Repair"
+  },
+  {
+    "niche_code": "install-stair-railings",
+    "niche_name": "Handrail Installers"
+  },
+  {
+    "niche_code": "handyman-service",
+    "niche_name": "Handyman Services"
+  },
+  {
+    "niche_code": "plumbing-handymen",
+    "niche_name": "Handymen Plumbers"
+  },
+  {
+    "niche_code": "hardscape-contractor",
+    "niche_name": "Hardscape Contractor"
+  },
+  {
+    "niche_code": "wood-floor-installers",
+    "niche_name": "Hardwood Floor Installation"
+  },
+  {
+    "niche_code": "wood-floor-repair",
+    "niche_name": "Hardwood Floor Repair"
+  },
+  {
+    "niche_code": "hardwood-flooring",
+    "niche_name": "Hardwood Flooring Sales and Installation"
+  },
+  {
+    "niche_code": "hauling",
+    "niche_name": "Hauling"
+  },
+  {
+    "niche_code": "heat-pump-installers",
+    "niche_name": "Heat Pump Companies"
+  },
+  {
+    "niche_code": "repair-heat-pumps",
+    "niche_name": "Heat Pump Repair"
+  },
+  {
+    "niche_code": "heating-cooling",
+    "niche_name": "Heating & Cooling"
+  },
+  {
+    "niche_code": "heating-oil-companies",
+    "niche_name": "Heating Oil"
+  },
+  {
+    "niche_code": "heating-oil",
+    "niche_name": "Heating Oil Services"
+  },
+  {
+    "niche_code": "heating-repair",
+    "niche_name": "Heating Repair"
+  },
+  {
+    "niche_code": "hedge-companies",
+    "niche_name": "Hedge Trimming"
+  },
+  {
+    "niche_code": "holiday-decorating",
+    "niche_name": "Holiday Decorating"
+  },
+  {
+    "niche_code": "holiday-decorators",
+    "niche_name": "Holiday Decorators"
+  },
+  {
+    "niche_code": "home-additions",
+    "niche_name": "Home Addition Companies"
+  },
+  {
+    "niche_code": "home-air-quality-test",
+    "niche_name": "Home Air Quality Testing"
+  },
+  {
+    "niche_code": "home-and-garage-organization",
+    "niche_name": "Home and Garage Organization"
+  },
+  {
+    "niche_code": "home-audio",
+    "niche_name": "Home Audio Companies"
+  },
+  {
+    "niche_code": "repair-home-audio",
+    "niche_name": "Home Audio Equipment Repair"
+  },
+  {
+    "niche_code": "home-automation",
+    "niche_name": "Home Automation"
+  },
+  {
+    "niche_code": "home-energy-audit",
+    "niche_name": "Home Energy Auditors"
+  },
+  {
+    "niche_code": "generator-repair",
+    "niche_name": "Home Generator Repair"
+  },
+  {
+    "niche_code": "home-inspection",
+    "niche_name": "Home Inspection"
+  },
+  {
+    "niche_code": "home-maintenance",
+    "niche_name": "Home Maintenance"
+  },
+  {
+    "niche_code": "home-organizers",
+    "niche_name": "Home Organizers"
+  },
+  {
+    "niche_code": "home-remodeling",
+    "niche_name": "Home Remodeling Contractors"
+  },
+  {
+    "niche_code": "home-renovations",
+    "niche_name": "Home Renovations"
+  },
+  {
+    "niche_code": "home-security-systems",
+    "niche_name": "Home Security Services"
+  },
+  {
+    "niche_code": "install-home-speakers",
+    "niche_name": "Home Speaker Installation"
+  },
+  {
+    "niche_code": "home-staging",
+    "niche_name": "Home Staging"
+  },
+  {
+    "niche_code": "install-home-theater",
+    "niche_name": "Home Theater Companies"
+  },
+  {
+    "niche_code": "home-theater-systems",
+    "niche_name": "Home Theater Installation"
+  },
+  {
+    "niche_code": "home-theater-repair",
+    "niche_name": "Home Theater Repair"
+  },
+  {
+    "niche_code": "home-warranty-companies",
+    "niche_name": "Home Warranty"
+  },
+  {
+    "niche_code": "window-repair",
+    "niche_name": "Home Window Repair"
+  },
+  {
+    "niche_code": "home-window-tinting",
+    "niche_name": "Home Window Tinting"
+  },
+  {
+    "niche_code": "install-hot-tub",
+    "niche_name": "Hot Tub Companies"
+  },
+  {
+    "niche_code": "hot-tub-repair",
+    "niche_name": "Hot Tub Repair"
+  },
+  {
+    "niche_code": "house-appraisers",
+    "niche_name": "House Appraisers"
+  },
+  {
+    "niche_code": "house-cleaning",
+    "niche_name": "House Cleaning Services"
+  },
+  {
+    "niche_code": "framing-contractors",
+    "niche_name": "House Framing Companies"
+  },
+  {
+    "niche_code": "house-leveling",
+    "niche_name": "House Leveling"
+  },
+  {
+    "niche_code": "painting",
+    "niche_name": "House Painters"
+  },
+  {
+    "niche_code": "housekeeper-agencies",
+    "niche_name": "Housekeeper Agencies"
+  },
+  {
+    "niche_code": "housekeepers",
+    "niche_name": "Housekeeping Services"
+  },
+  {
+    "niche_code": "install-humidifier",
+    "niche_name": "Humidifier Installation"
+  },
+  {
+    "niche_code": "hurricane-film",
+    "niche_name": "Hurricane Film"
+  },
+  {
+    "niche_code": "repair-hurricane-shutters",
+    "niche_name": "Hurricane Shutter Repair"
+  },
+  {
+    "niche_code": "hurricane-shutters",
+    "niche_name": "Hurricane Shutters"
+  },
+  {
+    "niche_code": "hvac-companies",
+    "niche_name": "HVAC Companies"
+  },
+  {
+    "niche_code": "hvac",
+    "niche_name": "HVAC Companies"
+  },
+  {
+    "niche_code": "hvac-repairs",
+    "niche_name": "HVAC Repairs"
+  },
+  {
+    "niche_code": "hvac-technicians",
+    "niche_name": "HVAC Technicians"
+  },
+  {
+    "niche_code": "ice-machine-repair",
+    "niche_name": "Ice Maker Repair"
+  },
+  {
+    "niche_code": "inground-pool-companies",
+    "niche_name": "Inground Pool Companies"
+  },
+  {
+    "niche_code": "inground-pool-repair",
+    "niche_name": "Inground Pool Repair Companies"
+  },
+  {
+    "niche_code": "insulation",
+    "niche_name": "Insulation"
+  },
+  {
+    "niche_code": "insulation-companies",
+    "niche_name": "Insulation Installers"
+  },
+  {
+    "niche_code": "interior-decorators",
+    "niche_name": "Interior Decorating"
+  },
+  {
+    "niche_code": "interior-designers",
+    "niche_name": "Interior Design"
+  },
+  {
+    "niche_code": "interior-design",
+    "niche_name": "Interior Design and Decorating"
+  },
+  {
+    "niche_code": "interior-painting",
+    "niche_name": "Interior Painters"
+  },
+  {
+    "niche_code": "invisible-fence",
+    "niche_name": "Invisible Fence"
+  },
+  {
+    "niche_code": "irrigation-pump-repair",
+    "niche_name": "Irrigation Pump Repair"
+  },
+  {
+    "niche_code": "jacuzzi-repair",
+    "niche_name": "Jacuzzi Repair"
+  },
+  {
+    "niche_code": "junk-removal",
+    "niche_name": "Junk Haulers"
+  },
+  {
+    "niche_code": "kenmore-appliance-repair",
+    "niche_name": "Kenmore Appliance Repair"
+  },
+  {
+    "niche_code": "kenmore-dishwasher-repair",
+    "niche_name": "Kenmore Dishwasher Repair"
+  },
+  {
+    "niche_code": "kenmore-dryer-repair",
+    "niche_name": "Kenmore Dryer Repair"
+  },
+  {
+    "niche_code": "kenmore-refrigerator-repair",
+    "niche_name": "Kenmore Refrigerator Repair"
+  },
+  {
+    "niche_code": "kenmore-vacuum-repair",
+    "niche_name": "Kenmore Vacuum Repair"
+  },
+  {
+    "niche_code": "kenmore-washer-repair",
+    "niche_name": "Kenmore Washer Repair"
+  },
+  {
+    "niche_code": "kitchen-and-bath-remodeling",
+    "niche_name": "Kitchen and Bath Remodeling"
+  },
+  {
+    "niche_code": "kitchen-designers",
+    "niche_name": "Kitchen Design"
+  },
+  {
+    "niche_code": "hood-cleaning",
+    "niche_name": "Kitchen Hood Cleaning"
+  },
+  {
+    "niche_code": "kitchen-refacing",
+    "niche_name": "Kitchen Refacing"
+  },
+  {
+    "niche_code": "kitchen-remodeling",
+    "niche_name": "Kitchen Remodeling"
+  },
+  {
+    "niche_code": "kitchen-renovations",
+    "niche_name": "Kitchen Renovations"
+  },
+  {
+    "niche_code": "kitchenaid-appliance-repair",
+    "niche_name": "Kitchenaid Appliance Repair"
+  },
+  {
+    "niche_code": "kitchenaid-dishwashers",
+    "niche_name": "Kitchenaid Dishwasher Repair Services"
+  },
+  {
+    "niche_code": "kitchenaid-mixer-repair",
+    "niche_name": "Kitchenaid Mixer Repair"
+  },
+  {
+    "niche_code": "kitchenaid-oven-repair",
+    "niche_name": "Kitchenaid Oven Repair"
+  },
+  {
+    "niche_code": "kitchenaid-fridge-repair",
+    "niche_name": "Kitchenaid Refrigerator Repair"
+  },
+  {
+    "niche_code": "koi-pond-services",
+    "niche_name": "Koi Pond Services"
+  },
+  {
+    "niche_code": "install-laminate-countertops",
+    "niche_name": "Laminate Countertop Installation"
+  },
+  {
+    "niche_code": "laminate-floor-cleaning",
+    "niche_name": "Laminate Floor Cleaning Services"
+  },
+  {
+    "niche_code": "install-laminate-flooring",
+    "niche_name": "Laminate Floor Installation"
+  },
+  {
+    "niche_code": "laminate-floor-repair",
+    "niche_name": "Laminate Flooring Repair"
+  },
+  {
+    "niche_code": "lamp-repair",
+    "niche_name": "Lamp Repair"
+  },
+  {
+    "niche_code": "land-clearing-services",
+    "niche_name": "Land Clearing Services"
+  },
+  {
+    "niche_code": "land-surveying",
+    "niche_name": "Land Surveying"
+  },
+  {
+    "niche_code": "home-phone-service",
+    "niche_name": "Landline Phone Service"
+  },
+  {
+    "niche_code": "landscape-architecture",
+    "niche_name": "Landscape Architects"
+  },
+  {
+    "niche_code": "landscape-designers",
+    "niche_name": "Landscape Design"
+  },
+  {
+    "niche_code": "sand-rock-delivery",
+    "niche_name": "Landscape Rock & Sand Delivery"
+  },
+  {
+    "niche_code": "landscape-rock-removal",
+    "niche_name": "Landscape Rock Removal"
+  },
+  {
+    "niche_code": "landscaping",
+    "niche_name": "Landscapers"
+  },
+  {
+    "niche_code": "landscaping-lighting",
+    "niche_name": "Landscaping - Lighting"
+  },
+  {
+    "niche_code": "lawn-aeration",
+    "niche_name": "Lawn Aeration"
+  },
+  {
+    "niche_code": "lawn-and-yard-work",
+    "niche_name": "Lawn and Yard Work"
+  },
+  {
+    "niche_code": "lawn-care",
+    "niche_name": "Lawn Care"
+  },
+  {
+    "niche_code": "lawn-mowing-companies",
+    "niche_name": "Lawn Cutting Services"
+  },
+  {
+    "niche_code": "lawn-dethatching",
+    "niche_name": "Lawn Dethatching Services"
+  },
+  {
+    "niche_code": "lawn-fertilization-and-treatment",
+    "niche_name": "Lawn Fertilization & Treatment"
+  },
+  {
+    "niche_code": "lawn-irrigation",
+    "niche_name": "Lawn Irrigation"
+  },
+  {
+    "niche_code": "lawn-mower-repair",
+    "niche_name": "Lawn Mower Repair"
+  },
+  {
+    "niche_code": "lawn-pest-control",
+    "niche_name": "Lawn Pest Control Services"
+  },
+  {
+    "niche_code": "lawn-repair-services",
+    "niche_name": "Lawn Repair Services"
+  },
+  {
+    "niche_code": "lawn-seeding",
+    "niche_name": "Lawn Seeding Companies"
+  },
+  {
+    "niche_code": "sprinkler-repair",
+    "niche_name": "Lawn Sprinkler Repair"
+  },
+  {
+    "niche_code": "lawn-treatment",
+    "niche_name": "Lawn Treatment"
+  },
+  {
+    "niche_code": "lead-removal",
+    "niche_name": "Lead Removal"
+  },
+  {
+    "niche_code": "lead-testing",
+    "niche_name": "Lead Testing"
+  },
+  {
+    "niche_code": "lead-testing-and-removal",
+    "niche_name": "Lead Testing and Removal"
+  },
+  {
+    "niche_code": "leaf-removal",
+    "niche_name": "Leaf Removal Services"
+  },
+  {
+    "niche_code": "leak-detection",
+    "niche_name": "Leak Detection"
+  },
+  {
+    "niche_code": "roof-leak-repair",
+    "niche_name": "Leaky Roof Repair"
+  },
+  {
+    "niche_code": "leather-and-vinyl-repair",
+    "niche_name": "Leather & Vinyl Repair"
+  },
+  {
+    "niche_code": "repair-leather-furniture",
+    "niche_name": "Leather Furniture Repair"
+  },
+  {
+    "niche_code": "led-lights",
+    "niche_name": "LED Light Installation"
+  },
+  {
+    "niche_code": "lg-appliance-repair",
+    "niche_name": "LG Appliance Repair Services"
+  },
+  {
+    "niche_code": "lg-refrigerator-repair",
+    "niche_name": "LG Refrigerator Repair"
+  },
+  {
+    "niche_code": "install-light-fixtures",
+    "niche_name": "Light Fixture Installation"
+  },
+  {
+    "niche_code": "lighting",
+    "niche_name": "Lighting"
+  },
+  {
+    "niche_code": "interior-lighting-design",
+    "niche_name": "Lighting Design"
+  },
+  {
+    "niche_code": "local-architects",
+    "niche_name": "Local Architects"
+  },
+  {
+    "niche_code": "local-greenhouses",
+    "niche_name": "Local Greenhouses"
+  },
+  {
+    "niche_code": "local-moving-companies",
+    "niche_name": "Local Movers"
+  },
+  {
+    "niche_code": "locksmiths",
+    "niche_name": "Locksmiths"
+  },
+  {
+    "niche_code": "mailbox-installation",
+    "niche_name": "Mailbox Installation"
+  },
+  {
+    "niche_code": "mailbox-repair",
+    "niche_name": "Mailbox Repair"
+  },
+  {
+    "niche_code": "main-drain-cameras",
+    "niche_name": "Main Drain Camera Companies"
+  },
+  {
+    "niche_code": "marble-and-granite",
+    "niche_name": "Marble and Granite"
+  },
+  {
+    "niche_code": "marble-restoration",
+    "niche_name": "Marble Restoration & Repair"
+  },
+  {
+    "niche_code": "marine-services",
+    "niche_name": "Marine Services"
+  },
+  {
+    "niche_code": "masonry",
+    "niche_name": "Masonry"
+  },
+  {
+    "niche_code": "repair-masonry",
+    "niche_name": "Masonry Repair"
+  },
+  {
+    "niche_code": "mattress-cleaning",
+    "niche_name": "Mattress Cleaners"
+  },
+  {
+    "niche_code": "maytag-appliance-repair",
+    "niche_name": "Maytag Appliance Repair"
+  },
+  {
+    "niche_code": "maytag-dishwasher-repair",
+    "niche_name": "Maytag Dishwasher Repair"
+  },
+  {
+    "niche_code": "maytag-dryer-repair",
+    "niche_name": "Maytag Dryer Repair"
+  },
+  {
+    "niche_code": "maytag-fridge-repair",
+    "niche_name": "Maytag Refrigerator Repair"
+  },
+  {
+    "niche_code": "maytag-washer-repair",
+    "niche_name": "Maytag Washer Repair"
+  },
+  {
+    "niche_code": "metal-fabrication-and-restoration",
+    "niche_name": "Metal Fabrication & Restoration"
+  },
+  {
+    "niche_code": "metal-fabrication",
+    "niche_name": "Metal Fabricators"
+  },
+  {
+    "niche_code": "metal-roof-installers",
+    "niche_name": "Metal Roof Installation"
+  },
+  {
+    "niche_code": "metal-roofing-repair",
+    "niche_name": "Metal Roof Repair"
+  },
+  {
+    "niche_code": "metal-roofers",
+    "niche_name": "Metal Roofing"
+  },
+  {
+    "niche_code": "install-metal-siding",
+    "niche_name": "Metal Siding Contractors"
+  },
+  {
+    "niche_code": "install-microwave",
+    "niche_name": "Microwave Installation"
+  },
+  {
+    "niche_code": "microwave-repairs",
+    "niche_name": "Microwave Repair"
+  },
+  {
+    "niche_code": "mini-split-installation",
+    "niche_name": "Mini Split Installation"
+  },
+  {
+    "niche_code": "install-mirrors",
+    "niche_name": "Mirror Installation"
+  },
+  {
+    "niche_code": "mirror-repair",
+    "niche_name": "Mirror Repair"
+  },
+  {
+    "niche_code": "modern-architects",
+    "niche_name": "Modern Architects"
+  },
+  {
+    "niche_code": "modular-home-companies",
+    "niche_name": "Modular Homes"
+  },
+  {
+    "niche_code": "mold-removal",
+    "niche_name": "Mold Removal"
+  },
+  {
+    "niche_code": "mold-inspection",
+    "niche_name": "Mold Testing"
+  },
+  {
+    "niche_code": "mold-testing-and-remediation",
+    "niche_name": "Mold Testing and Remediation"
+  },
+  {
+    "niche_code": "mosquito-services",
+    "niche_name": "Mosquito Control Companies"
+  },
+  {
+    "niche_code": "move-out-cleaning",
+    "niche_name": "Move Out Cleaners"
+  },
+  {
+    "niche_code": "moving",
+    "niche_name": "Moving Companies"
+  },
+  {
+    "niche_code": "moving-labor",
+    "niche_name": "Moving Labor"
+  },
+  {
+    "niche_code": "moving-companies",
+    "niche_name": "Moving Services"
+  },
+  {
+    "niche_code": "mulch-and-topsoil",
+    "niche_name": "Mulch and Topsoil"
+  },
+  {
+    "niche_code": "mulch-delivery",
+    "niche_name": "Mulch Delivery Services"
+  },
+  {
+    "niche_code": "mulching-companies",
+    "niche_name": "Mulching Companies"
+  },
+  {
+    "niche_code": "wall-mural-painters",
+    "niche_name": "Muralists"
+  },
+  {
+    "niche_code": "nest-installation",
+    "niche_name": "Nest Installation"
+  },
+  {
+    "niche_code": "odor-removal",
+    "niche_name": "Odor Removal Services"
+  },
+  {
+    "niche_code": "opossum-removal",
+    "niche_name": "Opossum Control"
+  },
+  {
+    "niche_code": "oriental-rug-cleaning",
+    "niche_name": "Oriental Rug Cleaning"
+  },
+  {
+    "niche_code": "outdoor-kitchens",
+    "niche_name": "Outdoor Kitchen Builders"
+  },
+  {
+    "niche_code": "outdoor-lighting",
+    "niche_name": "Outdoor Landscape Lighting"
+  },
+  {
+    "niche_code": "outdoor-light-repair",
+    "niche_name": "Outdoor Light Repair"
+  },
+  {
+    "niche_code": "plant-watering",
+    "niche_name": "Outdoor Plant Watering"
+  },
+  {
+    "niche_code": "oven-repair",
+    "niche_name": "Oven Repair"
+  },
+  {
+    "niche_code": "overhead-door-repair",
+    "niche_name": "Overhead Door Repair"
+  },
+  {
+    "niche_code": "packing-unpacking",
+    "niche_name": "Packing Services"
+  },
+  {
+    "niche_code": "paint-stripping",
+    "niche_name": "Paint Stripping"
+  },
+  {
+    "niche_code": "palm-trees",
+    "niche_name": "Palm Tree Specialists"
+  },
+  {
+    "niche_code": "parking-lot-paving",
+    "niche_name": "Parking Lot Paving"
+  },
+  {
+    "niche_code": "patio-companies",
+    "niche_name": "Patio Companies"
+  },
+  {
+    "niche_code": "patio-covers",
+    "niche_name": "Patio Cover Companies"
+  },
+  {
+    "niche_code": "repair-patio-furniture",
+    "niche_name": "Patio Furniture Repair"
+  },
+  {
+    "niche_code": "repair-patio",
+    "niche_name": "Patio Repair"
+  },
+  {
+    "niche_code": "patios",
+    "niche_name": "Patios"
+  },
+  {
+    "niche_code": "paver-installation",
+    "niche_name": "Paver Install Companies"
+  },
+  {
+    "niche_code": "landscaping-hardscaping-and-pavers",
+    "niche_name": "Pavers and Hardscaping"
+  },
+  {
+    "niche_code": "paving-services",
+    "niche_name": "Paving Contractors"
+  },
+  {
+    "niche_code": "percolation-tests",
+    "niche_name": "Perc Test Companies"
+  },
+  {
+    "niche_code": "pergola-contractors",
+    "niche_name": "Pergola Builders"
+  },
+  {
+    "niche_code": "pest-control",
+    "niche_name": "Pest Control"
+  },
+  {
+    "niche_code": "exterminators",
+    "niche_name": "Pest Control Services"
+  },
+  {
+    "niche_code": "pest-inspection",
+    "niche_name": "Pest Inspection"
+  },
+  {
+    "niche_code": "pet-door-installation",
+    "niche_name": "Pet Door Installation"
+  },
+  {
+    "niche_code": "phone-repair",
+    "niche_name": "Phone Repair"
+  },
+  {
+    "niche_code": "piano-moving",
+    "niche_name": "Piano Moving"
+  },
+  {
+    "niche_code": "picture-hanging",
+    "niche_name": "Picture Hangers"
+  },
+  {
+    "niche_code": "repair-plaster",
+    "niche_name": "Plaster Repair"
+  },
+  {
+    "niche_code": "plaster-plaster-repair",
+    "niche_name": "Plaster Repair"
+  },
+  {
+    "niche_code": "playground-installation",
+    "niche_name": "Playground Installation"
+  },
+  {
+    "niche_code": "playground-repair",
+    "niche_name": "Playground Repair Services"
+  },
+  {
+    "niche_code": "playground-equipment",
+    "niche_name": "Playgrounds"
+  },
+  {
+    "niche_code": "plumbing",
+    "niche_name": "Plumbing"
+  },
+  {
+    "niche_code": "plumbing-heating-companies",
+    "niche_name": "Plumbing & Heating Companies"
+  },
+  {
+    "niche_code": "plumbing-repair",
+    "niche_name": "Plumbing Repairs"
+  },
+  {
+    "niche_code": "pole-barn-builders",
+    "niche_name": "Pole Barn Builders"
+  },
+  {
+    "niche_code": "pond-services",
+    "niche_name": "Pond Companies"
+  },
+  {
+    "niche_code": "pond-cleaning",
+    "niche_name": "Pond Services"
+  },
+  {
+    "niche_code": "pool-and-spa-service",
+    "niche_name": "Pool and Spa Service"
+  },
+  {
+    "niche_code": "pool-cleaners",
+    "niche_name": "Pool Cleaning"
+  },
+  {
+    "niche_code": "pool-closing-services",
+    "niche_name": "Pool Closing Services"
+  },
+  {
+    "niche_code": "repair-pool-covers",
+    "niche_name": "Pool Cover Repair"
+  },
+  {
+    "niche_code": "pool-deck-companies",
+    "niche_name": "Pool Deck Companies"
+  },
+  {
+    "niche_code": "pool-designers",
+    "niche_name": "Pool Designers"
+  },
+  {
+    "niche_code": "repair-pool-heaters",
+    "niche_name": "Pool Heater Repair"
+  },
+  {
+    "niche_code": "pool-heater-services",
+    "niche_name": "Pool Heater Services"
+  },
+  {
+    "niche_code": "pool-inspector",
+    "niche_name": "Pool Inspector"
+  },
+  {
+    "niche_code": "pool-liner-installation",
+    "niche_name": "Pool Liner Replace & Install Companies"
+  },
+  {
+    "niche_code": "pool-services",
+    "niche_name": "Pool Maintenance"
+  },
+  {
+    "niche_code": "pool-plaster",
+    "niche_name": "Pool Plaster Repair"
+  },
+  {
+    "niche_code": "pool-pump-repair",
+    "niche_name": "Pool Pump Repair"
+  },
+  {
+    "niche_code": "pool-remodeling",
+    "niche_name": "Pool Remodeling Companies"
+  },
+  {
+    "niche_code": "pool-removal",
+    "niche_name": "Pool Removal Companies"
+  },
+  {
+    "niche_code": "pool-repair",
+    "niche_name": "Pool Repair"
+  },
+  {
+    "niche_code": "resurface-pools",
+    "niche_name": "Pool Resurfacing"
+  },
+  {
+    "niche_code": "pool-table-assembly",
+    "niche_name": "Pool Table Assembly"
+  },
+  {
+    "niche_code": "pool-tile",
+    "niche_name": "Pool Tile Companies"
+  },
+  {
+    "niche_code": "popcorn-ceilings",
+    "niche_name": "Popcorn Ceiling"
+  },
+  {
+    "niche_code": "porcelain-refinish-repair",
+    "niche_name": "Porcelain Bathtub Refinish & Repair"
+  },
+  {
+    "niche_code": "porcelain-tile",
+    "niche_name": "Porcelain Tile"
+  },
+  {
+    "niche_code": "porch-companies",
+    "niche_name": "Porch Contractors"
+  },
+  {
+    "niche_code": "porch-repairs",
+    "niche_name": "Porch Repair"
+  },
+  {
+    "niche_code": "powder-coating",
+    "niche_name": "Powder Coating Services"
+  },
+  {
+    "niche_code": "power-washing",
+    "niche_name": "Power Washing"
+  },
+  {
+    "niche_code": "pre-made-cabinets",
+    "niche_name": "Pre-Made Cabinets"
+  },
+  {
+    "niche_code": "pressure-washing",
+    "niche_name": "Pressure Washing"
+  },
+  {
+    "niche_code": "install-privacy-fencing",
+    "niche_name": "Privacy Fence Companies"
+  },
+  {
+    "niche_code": "property-appraiser",
+    "niche_name": "Property Appraiser"
+  },
+  {
+    "niche_code": "install-putting-green",
+    "niche_name": "Putting Greens"
+  },
+  {
+    "niche_code": "install-quartz-countertops",
+    "niche_name": "Quartz Countertop Installers"
+  },
+  {
+    "niche_code": "raccoon-control",
+    "niche_name": "Raccoon Control"
+  },
+  {
+    "niche_code": "radon-testing",
+    "niche_name": "Radon Inspectors"
+  },
+  {
+    "niche_code": "radon-remediation",
+    "niche_name": "Radon Mitigation"
+  },
+  {
+    "niche_code": "range-hoods",
+    "niche_name": "Range Hood Companies"
+  },
+  {
+    "niche_code": "real-estate-agents",
+    "niche_name": "Real Estate Agents"
+  },
+  {
+    "niche_code": "real-estate-companies",
+    "niche_name": "Realtors"
+  },
+  {
+    "niche_code": "recessed-lighting-installation",
+    "niche_name": "Recessed Lighting Installers"
+  },
+  {
+    "niche_code": "recliner-repair",
+    "niche_name": "Recliner Repair"
+  },
+  {
+    "niche_code": "fridge-repair",
+    "niche_name": "Refrigerator Repair"
+  },
+  {
+    "niche_code": "remodel-design",
+    "niche_name": "Remodel Designers"
+  },
+  {
+    "niche_code": "remodeling-modular-and-mobile-home",
+    "niche_name": "Remodeling - Modular & Mobile Home"
+  },
+  {
+    "niche_code": "remodeling-basements",
+    "niche_name": "Remodeling Basements"
+  },
+  {
+    "niche_code": "residential-cleaning",
+    "niche_name": "Residential Cleaners"
+  },
+  {
+    "niche_code": "residential-design",
+    "niche_name": "Residential Designers"
+  },
+  {
+    "niche_code": "retaining-wall-installers",
+    "niche_name": "Retaining Wall Companies"
+  },
+  {
+    "niche_code": "retaining-wall-repair",
+    "niche_name": "Retaining Wall Repair"
+  },
+  {
+    "niche_code": "ring-installers",
+    "niche_name": "Ring Installers"
+  },
+  {
+    "niche_code": "mice-exterminator",
+    "niche_name": "Rodent Control"
+  },
+  {
+    "niche_code": "roof-cleaning",
+    "niche_name": "Roof Cleaning"
+  },
+  {
+    "niche_code": "roof-ice-and-snow-removal",
+    "niche_name": "Roof Ice/Snow Removal"
+  },
+  {
+    "niche_code": "roof-inspection",
+    "niche_name": "Roof Inspection"
+  },
+  {
+    "niche_code": "roof-moss-removal",
+    "niche_name": "Roof Moss Removal"
+  },
+  {
+    "niche_code": "roof-repair",
+    "niche_name": "Roof Repair"
+  },
+  {
+    "niche_code": "roof-sealing",
+    "niche_name": "Roof Sealing"
+  },
+  {
+    "niche_code": "roofing",
+    "niche_name": "Roofers"
+  },
+  {
+    "niche_code": "roof-siding",
+    "niche_name": "Roofing & Siding"
+  },
+  {
+    "niche_code": "roto-tilling",
+    "niche_name": "Rototilling"
+  },
+  {
+    "niche_code": "rubber-roofing",
+    "niche_name": "Rubber Roofers"
+  },
+  {
+    "niche_code": "rug-cleaning",
+    "niche_name": "Rug Cleaning"
+  },
+  {
+    "niche_code": "security-safe",
+    "niche_name": "Safe Installation"
+  },
+  {
+    "niche_code": "safe-movers",
+    "niche_name": "Safe Movers"
+  },
+  {
+    "niche_code": "emergency-house-cleaning",
+    "niche_name": "Same Day House Cleaning"
+  },
+  {
+    "niche_code": "samsung-appliance-repair",
+    "niche_name": "Samsung Appliance Repair"
+  },
+  {
+    "niche_code": "samsung-dishwasher-repair",
+    "niche_name": "Samsung Dishwasher Repair"
+  },
+  {
+    "niche_code": "samsung-dryer-repair",
+    "niche_name": "Samsung Dryer Repair"
+  },
+  {
+    "niche_code": "samsung-microwave-repair",
+    "niche_name": "Samsung Microwave Repair"
+  },
+  {
+    "niche_code": "samsung-oven-repair",
+    "niche_name": "Samsung Oven Repair"
+  },
+  {
+    "niche_code": "samsung-fridge-repair",
+    "niche_name": "Samsung Refrigerator Repair"
+  },
+  {
+    "niche_code": "samsung-tablet-repair",
+    "niche_name": "Samsung Tablet Repair"
+  },
+  {
+    "niche_code": "samsung-tv-repair",
+    "niche_name": "Samsung TV Repair"
+  },
+  {
+    "niche_code": "samsung-washer-repair",
+    "niche_name": "Samsung Washer Repair"
+  },
+  {
+    "niche_code": "sandblasting-services",
+    "niche_name": "Sandblasting"
+  },
+  {
+    "niche_code": "satellite-tv-service",
+    "niche_name": "Satellite Tv"
+  },
+  {
+    "niche_code": "sauna-installation",
+    "niche_name": "Sauna Companies"
+  },
+  {
+    "niche_code": "sauna-repair",
+    "niche_name": "Sauna Repair"
+  },
+  {
+    "niche_code": "install-screen-doors",
+    "niche_name": "Screen Door Installation"
+  },
+  {
+    "niche_code": "screen-porch-builders",
+    "niche_name": "Screen Porch Builders"
+  },
+  {
+    "niche_code": "screen-repair",
+    "niche_name": "Screen Repair"
+  },
+  {
+    "niche_code": "install-seamless-gutters",
+    "niche_name": "Seamless Gutter Companies"
+  },
+  {
+    "niche_code": "seamless-gutter-repair",
+    "niche_name": "Seamless Gutter Repair"
+  },
+  {
+    "niche_code": "install-security-cameras",
+    "niche_name": "Security Camera Installation"
+  },
+  {
+    "niche_code": "security-doors",
+    "niche_name": "Security Door Installers"
+  },
+  {
+    "niche_code": "security-monitoring",
+    "niche_name": "Security Monitoring Companies"
+  },
+  {
+    "niche_code": "septic-maintenance",
+    "niche_name": "Septic Maintenance Companies"
+  },
+  {
+    "niche_code": "septic-tank-repair",
+    "niche_name": "Septic System Repair"
+  },
+  {
+    "niche_code": "septic-tank-cleaners",
+    "niche_name": "Septic Tank Cleaners"
+  },
+  {
+    "niche_code": "septic-tank-companies",
+    "niche_name": "Septic Tank Companies"
+  },
+  {
+    "niche_code": "septic-tank",
+    "niche_name": "Septic Tank Service"
+  },
+  {
+    "niche_code": "sewer-cleaners",
+    "niche_name": "Sewer Cleaning"
+  },
+  {
+    "niche_code": "sewer-cleaning",
+    "niche_name": "Sewer Cleaning"
+  },
+  {
+    "niche_code": "sewer-service",
+    "niche_name": "Sewer Companies"
+  },
+  {
+    "niche_code": "repair-sewer-line",
+    "niche_name": "Sewer Line Repair"
+  },
+  {
+    "niche_code": "shed-construction",
+    "niche_name": "Shed Builders"
+  },
+  {
+    "niche_code": "shower-door-installation",
+    "niche_name": "Shower Door Installers"
+  },
+  {
+    "niche_code": "shower-enclosures",
+    "niche_name": "Shower Enclosures"
+  },
+  {
+    "niche_code": "shower-glass-companies",
+    "niche_name": "Shower Glass Installers"
+  },
+  {
+    "niche_code": "shower-installers",
+    "niche_name": "Shower Installation"
+  },
+  {
+    "niche_code": "shower-repair",
+    "niche_name": "Shower Repair"
+  },
+  {
+    "niche_code": "shrub-removal-trimming",
+    "niche_name": "Shrub Removal & Trimming"
+  },
+  {
+    "niche_code": "siding",
+    "niche_name": "Siding"
+  },
+  {
+    "niche_code": "siding-contractors",
+    "niche_name": "Siding Companies"
+  },
+  {
+    "niche_code": "repair-siding",
+    "niche_name": "Siding Repair"
+  },
+  {
+    "niche_code": "sign-makers",
+    "niche_name": "Sign Makers"
+  },
+  {
+    "niche_code": "sink-installation",
+    "niche_name": "Sink Installation"
+  },
+  {
+    "niche_code": "sink-reglazing",
+    "niche_name": "Sink Refinishing"
+  },
+  {
+    "niche_code": "sink-repair",
+    "niche_name": "Sink Repair"
+  },
+  {
+    "niche_code": "skunk-control",
+    "niche_name": "Skunk Control"
+  },
+  {
+    "niche_code": "install-skylights",
+    "niche_name": "Skylight Companies"
+  },
+  {
+    "niche_code": "repair-skylights",
+    "niche_name": "Skylight Repair"
+  },
+  {
+    "niche_code": "skylights",
+    "niche_name": "Skylights"
+  },
+  {
+    "niche_code": "slate-roofing",
+    "niche_name": "Slate Roofers"
+  },
+  {
+    "niche_code": "sliding-glass-doors",
+    "niche_name": "Sliding Door Installation"
+  },
+  {
+    "niche_code": "small-appliance-repair",
+    "niche_name": "Small Appliance Repair Services"
+  },
+  {
+    "niche_code": "small-moving-companies",
+    "niche_name": "Small Movers"
+  },
+  {
+    "niche_code": "smoke-detector-installers",
+    "niche_name": "Smoke Detector Installers"
+  },
+  {
+    "niche_code": "smoke-restoration",
+    "niche_name": "Smoke Restoration Companies"
+  },
+  {
+    "niche_code": "snake-removal",
+    "niche_name": "Snake Control"
+  },
+  {
+    "niche_code": "snow-removal",
+    "niche_name": "Snow Removal Companies"
+  },
+  {
+    "niche_code": "sod-services",
+    "niche_name": "Sod Installation"
+  },
+  {
+    "niche_code": "sod-removal-services",
+    "niche_name": "Sod Removal Services"
+  },
+  {
+    "niche_code": "soil-testers",
+    "niche_name": "Soil Testing"
+  },
+  {
+    "niche_code": "solar-panel-cleaning",
+    "niche_name": "Solar Panel Cleaning"
+  },
+  {
+    "niche_code": "install-solar-panels",
+    "niche_name": "Solar Panel Installation"
+  },
+  {
+    "niche_code": "solar-panel-repair",
+    "niche_name": "Solar Panel Repair"
+  },
+  {
+    "niche_code": "solar-panels",
+    "niche_name": "Solar Panels"
+  },
+  {
+    "niche_code": "solar-pool-heater-installers",
+    "niche_name": "Solar Pool Heater Installers"
+  },
+  {
+    "niche_code": "soundproofing-contractors",
+    "niche_name": "Soundproofing"
+  },
+  {
+    "niche_code": "spider-control",
+    "niche_name": "Spider Control"
+  },
+  {
+    "niche_code": "spray-foam-insulation",
+    "niche_name": "Spray Foam Insulation Installers"
+  },
+  {
+    "niche_code": "install-sprinklers",
+    "niche_name": "Sprinkler Services"
+  },
+  {
+    "niche_code": "sprinkler-blowout",
+    "niche_name": "Sprinkler Winterization"
+  },
+  {
+    "niche_code": "squirrel-control",
+    "niche_name": "Squirrel Removal"
+  },
+  {
+    "niche_code": "stained-glass-repair",
+    "niche_name": "Stained Glass Repair"
+  },
+  {
+    "niche_code": "stair-builders",
+    "niche_name": "Stair Builders"
+  },
+  {
+    "niche_code": "stair-companies",
+    "niche_name": "Stair Installers"
+  },
+  {
+    "niche_code": "concrete-stamping",
+    "niche_name": "Stamped Concrete"
+  },
+  {
+    "niche_code": "stamped-concrete-patios",
+    "niche_name": "Stamped Concrete Patio Companies"
+  },
+  {
+    "niche_code": "stone-and-gravel",
+    "niche_name": "Stone and Gravel"
+  },
+  {
+    "niche_code": "stone-countertops",
+    "niche_name": "Stone Countertops"
+  },
+  {
+    "niche_code": "stone-flooring",
+    "niche_name": "Stone Flooring Companies"
+  },
+  {
+    "niche_code": "stone-veneer-companies",
+    "niche_name": "Stone Veneer"
+  },
+  {
+    "niche_code": "storm-damage",
+    "niche_name": "Storm Damage Repair Companies"
+  },
+  {
+    "niche_code": "install-storm-doors",
+    "niche_name": "Storm Door Companies"
+  },
+  {
+    "niche_code": "storm-drain-installation",
+    "niche_name": "Storm Drain Contractors"
+  },
+  {
+    "niche_code": "storm-shelters",
+    "niche_name": "Storm Shelter Builders"
+  },
+  {
+    "niche_code": "structural-engineering",
+    "niche_name": "Structural Engineering"
+  },
+  {
+    "niche_code": "structural-engineers",
+    "niche_name": "Structural Engineers"
+  },
+  {
+    "niche_code": "stucco",
+    "niche_name": "Stucco"
+  },
+  {
+    "niche_code": "stucco-services",
+    "niche_name": "Stucco Contractors"
+  },
+  {
+    "niche_code": "stucco-repair",
+    "niche_name": "Stucco Repair"
+  },
+  {
+    "niche_code": "stump-removal",
+    "niche_name": "Stump Removal"
+  },
+  {
+    "niche_code": "subcontractors",
+    "niche_name": "Subcontractors"
+  },
+  {
+    "niche_code": "sump-pump-installation",
+    "niche_name": "Sump Pump Installation"
+  },
+  {
+    "niche_code": "repair-sump-pumps",
+    "niche_name": "Sump Pump Repair"
+  },
+  {
+    "niche_code": "sump-pump-replacement",
+    "niche_name": "Sump Pump Replacement"
+  },
+  {
+    "niche_code": "sunroom-contractors",
+    "niche_name": "Sunrooms"
+  },
+  {
+    "niche_code": "sunroom-and-patio-remodeling",
+    "niche_name": "Sunrooms and Patio Enclosures"
+  },
+  {
+    "niche_code": "surround-sound-installation",
+    "niche_name": "Surround Sound Installation"
+  },
+  {
+    "niche_code": "surveillance-camera-installation",
+    "niche_name": "Surveillance Camera Installation"
+  },
+  {
+    "niche_code": "suspended-ceilings",
+    "niche_name": "Suspended Ceiling Companies"
+  },
+  {
+    "niche_code": "swamp-cooler-repair",
+    "niche_name": "Swamp Cooler Repair"
+  },
+  {
+    "niche_code": "swimming-pool-installation",
+    "niche_name": "Swimming Pool Installation"
+  },
+  {
+    "niche_code": "swimming-pools",
+    "niche_name": "Swimming Pools"
+  },
+  {
+    "niche_code": "install-swing-sets",
+    "niche_name": "Swing Set Installation"
+  },
+  {
+    "niche_code": "tankless-water-heater-companies",
+    "niche_name": "Tankless Water Heater Companies"
+  },
+  {
+    "niche_code": "repair-tankless-water-heaters",
+    "niche_name": "Tankless Water Heater Repair"
+  },
+  {
+    "niche_code": "tennis-court-contractors",
+    "niche_name": "Tennis Court Contractors"
+  },
+  {
+    "niche_code": "termite-control",
+    "niche_name": "Termite Control"
+  },
+  {
+    "niche_code": "termite-tenting",
+    "niche_name": "Termite Tenting"
+  },
+  {
+    "niche_code": "install-thermostat",
+    "niche_name": "Thermostat Installation"
+  },
+  {
+    "niche_code": "repair-thermostat",
+    "niche_name": "Thermostat Repair"
+  },
+  {
+    "niche_code": "tile-contractors",
+    "niche_name": "Tile Contractors"
+  },
+  {
+    "niche_code": "tile-floor-cleaning",
+    "niche_name": "Tile Floor Cleaning"
+  },
+  {
+    "niche_code": "install-tile-floors",
+    "niche_name": "Tile Floor Installers"
+  },
+  {
+    "niche_code": "grout-tile-cleaners",
+    "niche_name": "Tile Grout Cleaners"
+  },
+  {
+    "niche_code": "tile-repair",
+    "niche_name": "Tile Repair Companies"
+  },
+  {
+    "niche_code": "repair-tile-roof",
+    "niche_name": "Tile Roof Repair"
+  },
+  {
+    "niche_code": "toilets",
+    "niche_name": "Toilet Repair & Installation"
+  },
+  {
+    "niche_code": "soil-delivery",
+    "niche_name": "Topsoil Delivery"
+  },
+  {
+    "niche_code": "trampoline-assembly",
+    "niche_name": "Trampoline Assembly"
+  },
+  {
+    "niche_code": "trash-bin-rental",
+    "niche_name": "Trash Bin Rental"
+  },
+  {
+    "niche_code": "trash-compactor-repair",
+    "niche_name": "Trash Compactor Repair"
+  },
+  {
+    "niche_code": "trash-haulers",
+    "niche_name": "Trash Haulers"
+  },
+  {
+    "niche_code": "tree-cutting",
+    "niche_name": "Tree Cutting Services"
+  },
+  {
+    "niche_code": "tree-debris",
+    "niche_name": "Tree Debris Removal & Disposal"
+  },
+  {
+    "niche_code": "tree-maintenance",
+    "niche_name": "Tree Maintenance"
+  },
+  {
+    "niche_code": "tree-planting-services",
+    "niche_name": "Tree Planting Services"
+  },
+  {
+    "niche_code": "tree-pruning",
+    "niche_name": "Tree Pruning"
+  },
+  {
+    "niche_code": "tree-removal",
+    "niche_name": "Tree Removal"
+  },
+  {
+    "niche_code": "tree-service",
+    "niche_name": "Tree Service"
+  },
+  {
+    "niche_code": "tree-surgeons",
+    "niche_name": "Tree Surgeons"
+  },
+  {
+    "niche_code": "tree-trimming",
+    "niche_name": "Tree Trimming"
+  },
+  {
+    "niche_code": "treehouse-builders",
+    "niche_name": "Treehouse Builders"
+  },
+  {
+    "niche_code": "tub-shower-conversion",
+    "niche_name": "Tub to Shower Conversion"
+  },
+  {
+    "niche_code": "tuckpointing",
+    "niche_name": "Tuck Pointers"
+  },
+  {
+    "niche_code": "turf-installation",
+    "niche_name": "Turf Installation"
+  },
+  {
+    "niche_code": "tv-antenna",
+    "niche_name": "TV Antenna"
+  },
+  {
+    "niche_code": "tv-antenna-installation",
+    "niche_name": "TV Antenna Services"
+  },
+  {
+    "niche_code": "tv-mount-install",
+    "niche_name": "TV Mounting"
+  },
+  {
+    "niche_code": "sonic-cleaning",
+    "niche_name": "Ultrasonic Cleaning"
+  },
+  {
+    "niche_code": "contractor",
+    "niche_name": "Unfinished Carpentry"
+  },
+  {
+    "niche_code": "upholstering",
+    "niche_name": "Upholstering"
+  },
+  {
+    "niche_code": "upholstery-cleaning",
+    "niche_name": "Upholstery Cleaners"
+  },
+  {
+    "niche_code": "repair-vertical-blinds",
+    "niche_name": "Vertical Blind Repair"
+  },
+  {
+    "niche_code": "vinyl-fence-install",
+    "niche_name": "Vinyl Fencing Installers"
+  },
+  {
+    "niche_code": "vinyl-floor-repair",
+    "niche_name": "Vinyl Floor Repair"
+  },
+  {
+    "niche_code": "vinyl-floor-companies",
+    "niche_name": "Vinyl Flooring Companies"
+  },
+  {
+    "niche_code": "vinyl-siding-cleaning",
+    "niche_name": "Vinyl Siding Cleaning"
+  },
+  {
+    "niche_code": "repair-vinyl-siding",
+    "niche_name": "Vinyl Siding Repair Contractors"
+  },
+  {
+    "niche_code": "walk-in-tub-installers",
+    "niche_name": "Walk-In Tub Installers"
+  },
+  {
+    "niche_code": "wall-heater-repair",
+    "niche_name": "Wall Heater Repair"
+  },
+  {
+    "niche_code": "wall-painters",
+    "niche_name": "Wall Painters"
+  },
+  {
+    "niche_code": "wall-repair",
+    "niche_name": "Wall Repair Services"
+  },
+  {
+    "niche_code": "wallpaper-installation",
+    "niche_name": "Wallpaper Installers"
+  },
+  {
+    "niche_code": "wallpaper-removal",
+    "niche_name": "Wallpaper Removal"
+  },
+  {
+    "niche_code": "wallpapering",
+    "niche_name": "Wallpapering"
+  },
+  {
+    "niche_code": "washing-machine-repair",
+    "niche_name": "Washing Machine Repair"
+  },
+  {
+    "niche_code": "waste-removal-services",
+    "niche_name": "Waste Removal Companies"
+  },
+  {
+    "niche_code": "water-and-smoke-damage",
+    "niche_name": "Water and Smoke Damage"
+  },
+  {
+    "niche_code": "water-clean-up",
+    "niche_name": "Water Clean Up"
+  },
+  {
+    "niche_code": "water-damage-restoration",
+    "niche_name": "Water Damage Companies"
+  },
+  {
+    "niche_code": "water-features",
+    "niche_name": "Water Feature Companies"
+  },
+  {
+    "niche_code": "water-softeners",
+    "niche_name": "Water Filtration and Softening"
+  },
+  {
+    "niche_code": "water-heater-installation",
+    "niche_name": "Water Heater Installation"
+  },
+  {
+    "niche_code": "water-heater-repair",
+    "niche_name": "Water Heater Repair"
+  },
+  {
+    "niche_code": "water-heaters",
+    "niche_name": "Water Heaters"
+  },
+  {
+    "niche_code": "water-line-installation",
+    "niche_name": "Water Line Installation"
+  },
+  {
+    "niche_code": "water-line-repair",
+    "niche_name": "Water Line Repair"
+  },
+  {
+    "niche_code": "install-water-softener",
+    "niche_name": "Water Softener Companies"
+  },
+  {
+    "niche_code": "water-softener-repair",
+    "niche_name": "Water Softener Repair Companies"
+  },
+  {
+    "niche_code": "water-specialists",
+    "niche_name": "Water Softener Specialists"
+  },
+  {
+    "niche_code": "weed-services",
+    "niche_name": "Weed Control"
+  },
+  {
+    "niche_code": "welding-services",
+    "niche_name": "Welders"
+  },
+  {
+    "niche_code": "welding",
+    "niche_name": "Welding"
+  },
+  {
+    "niche_code": "well-pump-contractors",
+    "niche_name": "Well Pump Companies"
+  },
+  {
+    "niche_code": "well-pump-repair-service",
+    "niche_name": "Well Pump Repair"
+  },
+  {
+    "niche_code": "wells-and-pumps",
+    "niche_name": "Wells and Pumps"
+  },
+  {
+    "niche_code": "wheelchair-ramps",
+    "niche_name": "Wheelchair Ramp Companies"
+  },
+  {
+    "niche_code": "whirlpool-dryer-repair",
+    "niche_name": "Whirlpool Dryer Repair"
+  },
+  {
+    "niche_code": "whirlpool-oven-repair",
+    "niche_name": "Whirlpool Oven Repair"
+  },
+  {
+    "niche_code": "whirlpool-fridge-repair",
+    "niche_name": "Whirlpool Refrigerator Repair"
+  },
+  {
+    "niche_code": "whirlpool-appliance-repair",
+    "niche_name": "Whirlpool Repair"
+  },
+  {
+    "niche_code": "whirlpool-washer-repair",
+    "niche_name": "Whirlpool Washer Repair"
+  },
+  {
+    "niche_code": "repair-wicker",
+    "niche_name": "Wicker Repair"
+  },
+  {
+    "niche_code": "wildlife-control",
+    "niche_name": "Wildlife Control"
+  },
+  {
+    "niche_code": "window-door-contractors",
+    "niche_name": "Window & Door Installation"
+  },
+  {
+    "niche_code": "window-ac-repair",
+    "niche_name": "Window A/C Repair"
+  },
+  {
+    "niche_code": "home-glass-repair",
+    "niche_name": "Window Glass Repair"
+  },
+  {
+    "niche_code": "replace-window-glass",
+    "niche_name": "Window Glass Replacement"
+  },
+  {
+    "niche_code": "window-companies",
+    "niche_name": "Window Installation"
+  },
+  {
+    "niche_code": "replace-window-screens",
+    "niche_name": "Window Screen Installation"
+  },
+  {
+    "niche_code": "window-screen-repair",
+    "niche_name": "Window Screen Repair Companies"
+  },
+  {
+    "niche_code": "repair-window-shades",
+    "niche_name": "Window Shade Repair"
+  },
+  {
+    "niche_code": "window-shutters",
+    "niche_name": "Window Shutter Companies"
+  },
+  {
+    "niche_code": "window-shutter-repair",
+    "niche_name": "Window Shutter Repair"
+  },
+  {
+    "niche_code": "window-tinting",
+    "niche_name": "Window Tinting"
+  },
+  {
+    "niche_code": "window-treatments",
+    "niche_name": "Window Treatments"
+  },
+  {
+    "niche_code": "window-cleaning",
+    "niche_name": "Window Washers"
+  },
+  {
+    "niche_code": "windows",
+    "niche_name": "Windows"
+  },
+  {
+    "niche_code": "wood-stove-repair",
+    "niche_name": "Wood & Pellet Stove Repair"
+  },
+  {
+    "niche_code": "wood-fence-builders",
+    "niche_name": "Wood Fence Companies"
+  },
+  {
+    "niche_code": "wood-fence-repair",
+    "niche_name": "Wood Fence Repair"
+  },
+  {
+    "niche_code": "wood-floor-refinishing",
+    "niche_name": "Wood Floor Refinishing"
+  },
+  {
+    "niche_code": "wood-stove-inspection",
+    "niche_name": "Wood Stove Inspection"
+  },
+  {
+    "niche_code": "wood-stove-companies",
+    "niche_name": "Wood Stove Services"
+  },
+  {
+    "niche_code": "wood-stripping-companies",
+    "niche_name": "Wood Stripping Services"
+  },
+  {
+    "niche_code": "woodworking",
+    "niche_name": "Woodworking"
+  },
+  {
+    "niche_code": "wrought-iron",
+    "niche_name": "Wrought Iron"
+  },
+  {
+    "niche_code": "wrought-iron-fencing-repair",
+    "niche_name": "Wrought Iron Fence Repair"
+  },
+  {
+    "niche_code": "wrought-iron-fencing",
+    "niche_name": "Wrought Iron Fences"
+  },
+  {
+    "niche_code": "yard-clean-up",
+    "niche_name": "Yard Clean Up Services"
+  }
+]
